@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Harshit
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=BCA+Graduate+%7C+Data+Science+Learner+%7C+Freelancer;Video+Editor+%7C+Thumbnail+Designer+%7C+Developer;Machine+Learning+%7C+Python+%7C+Power+BI&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.vercel.app/?lines=BCA+Graduate+%7C+Data+Science+Learner+%7C+Freelancer;Video+Editor+%7C+Thumbnail+Designer+%7C+Developer;Machine+Learning+%7C+Python+%7C+Power+BI&center=true&width=550&height=50">
 </div>
 
 ---
