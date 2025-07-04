@@ -1,20 +1,20 @@
-# 👋 Hi there, I'm Harshit!
+# 👋 Hey there! I'm Harshit
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=BCA+Student+%7C+Data+Science+Learner+%7C+Freelancer;Video+Editor+%7C+Thumbnail+Designer+%7C+Developer;Machine+Learning+%7C+Python+%7C+Power+BI&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.vercel.app/?lines=BCA+Graduate+%7C+Data+Science+Learner+%7C+Freelancer;Video+Editor+%7C+Thumbnail+Designer+%7C+Developer;Machine+Learning+%7C+Python+%7C+Power+BI&center=true&width=500&height=50">
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **BCA student** currently pursuing **Data Science** at IT Vedant. When I'm not coding or analyzing data, you'll find me creating stunning videos and thumbnails as a freelance content creator.
+Hey! I'm a **BCA graduate** who's absolutely passionate about data and technology. Currently diving deep into **Data Science** at IT Vedant, and when I'm not buried in code or crunching numbers, you'll find me crafting awesome videos and thumbnails as a freelance creator.
 
-### 🎯 What I Do
-- 📊 **Data Science & Analytics** - Learning and exploring the world of data
-- 🎬 **Video Editing** - Professional editing with Adobe Premiere Pro & After Effects
-- 🎨 **Thumbnail Design** - Eye-catching designs that drive engagement
-- 💻 **Development** - Building solutions with Python and modern tools
+### 🎯 What I Love Doing
+- 📊 **Data Science & Analytics** - Exploring the fascinating world of data and finding hidden insights
+- 🎬 **Video Editing** - Creating engaging content with Adobe Premiere Pro & After Effects
+- 🎨 **Thumbnail Design** - Making eye-catching designs that grab attention
+- 💻 **Development** - Building cool stuff with Python and modern tools
 
 ---
 
@@ -77,28 +77,28 @@ I'm a passionate **BCA student** currently pursuing **Data Science** at IT Vedan
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://github.com/harshit-codes" target="_blank">
+  <a href="https://github.com/StanicX" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/[your_username_here]" target="_blank">
+  <a href="https://instagram.com/stanicx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/[your_username_here]" target="_blank">
+  <a href="https://linkedin.com/in/stanicx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Currently Working On
 
-- 🔬 **Machine Learning** - Exploring algorithms and data modeling
-- 📊 **Data Visualization** - Creating insights with Power BI and Tableau
-- 🎬 **Content Creation** - Growing my freelance video editing business
-- 💻 **Python Development** - Building practical applications
+- 🔬 **Machine Learning** - Getting my hands dirty with algorithms and data modeling
+- 📊 **Data Visualization** - Turning boring data into beautiful insights with Power BI and Tableau
+- 🎬 **Content Creation** - Growing my freelance video editing hustle
+- 💻 **Python Development** - Building practical stuff that actually works
 
 ---
 
