@@ -1,7 +1,7 @@
 # Hey there, I'm Harshit
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Doing+Masters+%7C+Data+Science+Learner+%7C+Freelancer;Video+Editor+%7C+Thumbnail+Designer+%7C+Developer;Machine+Learning+%7C+Python+%7C+Power+BI&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Doing+Masters+%7C+Data+Science+Learner+%7C+Freelancer;Video+Editor+%7C+Thumbnail+Designer+%7C+Developer;Machine+Learning+%7C+Python+%7C+Power+BI&center=true&width=550&height=50" alt="Typing SVG" />
 </div>
 
 ---
@@ -43,20 +43,12 @@ I'm a BCA graduate currently pursuing my Master's and studying Data Science at I
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StanicX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StanicX&theme=radical" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=StanicX&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanicX&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StanicX&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StanicX&theme=radical" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StanicX&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -64,15 +56,7 @@ I'm a BCA graduate currently pursuing my Master's and studying Data Science at I
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanicX&theme=radical" alt="Contribution Graph" />
-</div>
-
----
-
-## Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StanicX&theme=radical" alt="Wakatime Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StanicX&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
